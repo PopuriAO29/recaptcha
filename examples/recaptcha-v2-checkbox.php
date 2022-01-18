@@ -57,17 +57,17 @@ $lang = 'en';
 <meta name="viewport" content="width=device-width,height=device-height,minimum-scale=1">
 <link rel="shortcut icon" href="https://www.gstatic.com/recaptcha/admin/favicon.ico" type="image/x-icon"/>
 <link rel="canonical" href="https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php">
-<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "name": "reCAPTCHA demo - \"I'm not a robot\" checkbox", "url": "https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php" }</script>
-<meta name="description" content="reCAPTCHA demo - &quot;I'm not a robot&quot; checkbox" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "name": "reCAPTCHA demo - \"I am human\" checkbox", "url": "https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php" }</script>
+<meta name="description" content="reCAPTCHA demo - &quot;I am human&quot; checkbox" />
 <meta property="og:url" content="https://recaptcha-demo.appspot.com/recaptcha-v2-checkbox.php" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="reCAPTCHA demo - &quot;I'm not a robot&quot; checkbox" />
-<meta property="og:description" content="reCAPTCHA demo - &quot;I'm not a robot&quot; checkbox" />
+<meta property="og:title" content="reCAPTCHA demo - &quot;I am human&quot; checkbox" />
+<meta property="og:description" content="reCAPTCHA demo - &quot;I am human&quot; checkbox" />
 <link rel="stylesheet" type="text/css" href="/examples.css">
-<title>reCAPTCHA demo - "I'm not a robot" checkbox</title>
+<title>reCAPTCHA demo - "I am human" checkbox</title>
 
 <header>
-    <h1>reCAPTCHA demo</h1><h2>"I'm not a robot" checkbox</h2>
+    <h1>reCAPTCHA demo</h1><h2>"I am human" checkbox</h2>
     <p><a href="/">↩️ Home</a></p>
 </header>
 <main>
